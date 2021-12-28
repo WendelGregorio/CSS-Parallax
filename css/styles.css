@@ -65,4 +65,10 @@ p {
 	font-size: 25px;
 	letter-spacing: 5px;
 	text-transform: uppercase;
+	font-family: "Sci-fy";
+}
+
+@font-face {
+	font-family: "Sci-fy";
+	src: url("../font/GameOfSquids.woff");
 }
